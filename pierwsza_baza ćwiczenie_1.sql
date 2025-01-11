@@ -1,3 +1,8 @@
+-- Create a database
+CREATE DATABASE IF NOT EXISTS SimpleDB;
+
+-- Use the database
+USE SimpleDB;
 
 -- Create a table with five columns
 CREATE TABLE IF NOT EXISTS SimpleTable (
