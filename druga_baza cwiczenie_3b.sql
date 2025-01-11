@@ -1,3 +1,8 @@
+-- Tworzenie bazy danych
+CREATE DATABASE IF NOT EXISTS baza_druga;
+
+-- Użycie bazy danych
+USE baza_druga;
 
 -- Tworzenie tabeli `pytania`
 CREATE TABLE IF NOT EXISTS pytania (
